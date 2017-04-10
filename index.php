@@ -38,39 +38,39 @@
 		</li>
 
 		<li data-menuanchor="Shot1" class="main-nav">
-			<a href="#Shot1">1 <span>Prelude</span></a>
+			<a href="#Shot1">1 <span>High School</span></a>
 		</li>
 
 		<li data-menuanchor="Shot2" class="main-nav">
-			<a href="#Shot2">2 <span>Life Beyond Earth</span></a>
+			<a href="#Shot2">2 <span>Game</span></a>
 		</li>
 
 		<li data-menuanchor="Shot3" class="main-nav">
-			<a href="#Shot3">3 <span>The world is yours</span></a>
+			<a href="#Shot3">3 <span>Anime</span></a>
 		</li>
 
 		<li data-menuanchor="Movie" class="main-nav">
-			<a href="#Movie"><i class="fa fa-video-camera"></i><span>Fantasy or Reality</span></a>
+			<a href="#Movie"><i class="fa fa-video-camera"></i><span>Drama</span></a>
 		</li>
 
 		<li data-menuanchor="Shot5" class="main-nav">
-			<a href="#Shot5">5 <span>Numbers</span></a>
+			<a href="#Shot5">5 <span>University</span></a>
 		</li>
 
 		<li data-menuanchor="Shot6" class="main-nav">
-			<a href="#Shot6">6 <span>The Art of Creation</span></a>
+			<a href="#Shot6">6 <span>420</span></a>
 		</li>
 
 		<li data-menuanchor="Shot7" class="main-nav">
-			<a href="#Shot7">7 <span>Raiders of the Sun</span></a>
+			<a href="#Shot7">7 <span>Work</span></a>
 		</li>
 
 		<li data-menuanchor="Shot8" class="main-nav">
-			<a href="#Shot8">8 <span>Luminosity</span></a>
+			<a href="#Shot8">8 <span>Life</span></a>
 		</li>
 
 		<li data-menuanchor="Map" class="main-nav">
-			<a href="#Map"><i class="fa fa-globe"></i><span>Photo tours</span></a>
+			<a href="#Map"><i class="fa fa-globe"></i><span>Travel</span></a>
 		</li>
 
 		<li id="menu-link">
@@ -82,7 +82,7 @@
 				</li>
 
 				<li>
-					<a class="open-info" data-target="clients-anchor">Clients</a>
+					<a class="open-info" data-target="clients-anchor">Thoughts</a>
 				</li>
 
 				<li>
@@ -148,20 +148,20 @@
 
 	    	<div class="img-info">
 
-	    		<h5>Some details...</h5>
+	    		<h5>My Favorite Anime</h5>
 
-	    		<h2>Prelude - Introduction</h2>
+	    		<h2>Your Lie in April</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Johnny Dopp Photography</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Kingdom of Norway 59°56′N 10°41′E
+            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">A-1 Pictures</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Japan 59°56′N 10°41′E
        			</p>
 
-            	<a data-dialog="somedialog_1" class="action-btn trigger before-click">More Informations</a>
+            	<a data-dialog="somedialog_1" class="action-btn trigger before-click">More Detail</a>
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
-            	<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+            	<a class="action-btn before-click" href="https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso" ><i class="fa fa-globe" aria-hidden="true"></i></a>
             </div>
 
             <!-- INFORMATIONS POPUP -->
@@ -179,10 +179,9 @@
 
 								<div class="col-lg-6 col-sm-6 col-xs-12">
 
-									<h4>Panoramic Mountain</h4>
+									<h4>Wellesley High School</h4>
 
-									<p>Lorem ipsum Enim pariatur exercitation anim velit ut aliquip do irure id culpa reprehenderit nisi eiusmod Excepteur incididunt dolore ad adipisicing consequat irure fugiat labore occaecat ad elit qui ullamco magna aute ea dolore ea laborum nisi laboris dolor pariatur incididunt velit pariatur quis aute minim dolor reprehenderit in pariatur amet sit et est aute sunt id consequat amet nostrud non exercitation laboris Excepteur ex anim sint adipisicing enim id anim dolore do sint.</p>
-
+									<p>Starting off the album is a picture of my favorite anime, Your Lie in April [Shigatsu wa Kimi no Uso]. The story revolves around a piano prodigy named Arima Kousei who's mother dies of an illness. He gradually loses the ability to hear the notes and ultimately stops playing altogether. That is, until he meets Miyazono Kaori, a violinist who changes his life.</p>
 								</div>
 
 								<div class="col-lg-5 col-lg-offset-1 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 details">
@@ -193,8 +192,8 @@
 
 									<h5><i class="fa fa-expand" aria-hidden="true"></i> Details</h5>
 
-									<p>3442 x 2592 pixels / 10.9 MB / Aspect Ratio: 1721:1296<br>
-										Lorem ipsum Dolor tempor enim dolor quis amet.</p>
+									<p>1920 x 1080 pixels / 10.9 MB / Aspect Ratio: 1721:1296<br>
+										Not Original Content</p>
 								</div>
 							</div>
 						</div>
@@ -247,20 +246,22 @@
 
 	    	<div class="img-info">
 
-	    		<h5>Some details...</h5>
+	    		<h5>My Favorite Anime</h5>
 
-	    		<h2>The world is yours</h2>
+	    		<h2>Your Lie in April</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Johnny Dopp Photography</a><br>
+            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">A-1 Pictures</a><br>
        				<i class="fa fa-location-arrow" aria-hidden="true"></i> Russian Federation 55°45′6″N 37°37′4″E
        			</p>
 
-            	<a data-dialog="somedialog_2" class="action-btn trigger before-click">More Informations</a>
+            	<a data-dialog="somedialog_2" class="action-btn trigger before-click">More Details</a>
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
-            	<a class="action-btn before-click" href="http://www.facebook.com/sharer/sharer.php?u=http://themehelite.com/"><i class="fa fa-share" aria-hidden="true"></i> Share on Facebook</a>
+            	<!--<a class="action-btn before-click" href="http://www.facebook.com/sharer/sharer.php?u=http://themehelite.com/"><i class="fa fa-share" aria-hidden="true"></i> Share on Facebook</a>-->
+                
+                <a class="action-btn before-click" href="https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso" ><i class="fa fa-globe" aria-hidden="true"></i></a>
             </div>
 
             <!-- INFORMATIONS POPUP -->
@@ -280,7 +281,7 @@
 
 									<h4>Panoramic Mountain</h4>
 
-									<p>Lorem ipsum Enim pariatur exercitation anim velit ut aliquip do irure id culpa reprehenderit nisi eiusmod Excepteur incididunt dolore ad adipisicing consequat irure fugiat labore occaecat ad elit qui ullamco magna aute ea dolore ea laborum nisi laboris dolor pariatur incididunt velit pariatur quis aute minim dolor reprehenderit in pariatur amet sit et est aute sunt id consequat amet nostrud non exercitation laboris Excepteur ex anim sint adipisicing enim id anim dolore do sint.</p>
+									<p>Starting off the album is a picture of my favorite anime, Your Lie in April [Shigatsu wa Kimi no Uso]. The story revolves around a piano prodigy named Arima Kousei who's mother dies of an illness. He gradually loses the ability to hear the notes and ultimately stops playing altogether. That is, until he meets Miyazono Kaori, a violinist who changes his life.</p>
 
 								</div>
 
@@ -314,12 +315,12 @@
 
 	    	<div class="img-info">
 
-	    		<h5>Some details...</h5>
+	    		<h5>My Favorite Drama</h5>
 
-	    		<h2>Fantasy or Reality</h2>
+	    		<h2>Uncontrollably Fond</h2>
 
             	<p class="credit">
-            		<i class="fa fa-video-camera" aria-hidden="true"></i> Video by <a href="http://themehelite.com">Johnny Dopp Film</a><br>
+            		<i class="fa fa-video-camera" aria-hidden="true"></i> Video by <a href="http://themehelite.com">tvN</a><br>
        				<i class="fa fa-location-arrow" aria-hidden="true"></i> Most populous city of France, Paris
        			</p>
 
@@ -355,7 +356,7 @@
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
-            	<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+            	<!--<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>-->
             </div>
 
             <!-- INFORMATIONS POPUP -->
@@ -477,7 +478,7 @@
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
-            	<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+            	<!--<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>-->
             </div>
 
             <!-- INFORMATIONS POPUP -->
@@ -542,7 +543,7 @@
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
-            	<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+            	<!--<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>-->
             </div>
 
             <!-- INFORMATIONS POPUP -->
@@ -624,19 +625,19 @@
         <div class="row">
 
         	<div class="col-xs-12 col-sm-12 col-lg-6">
-            	<p>As a child I've always...</p>
+            	<p>As a child I've always wondered about the meaning of life. </p>
             </div>
 
             <div class="col-xs-12 col-sm-12 col-lg-6">
-            	<p>Now begins the second part of my journey.</p>
+            	<p>Now begins the second part of my journey. I've graduated and am now a working professional. </p>
             </div>
         </div>
 
         <span class="separator"></span>
 
-        <h2 id="clients-anchor">My valued customers...<small>Trusted by 700+ of the World's Leading Brands</small></h2>
+        <h2 id="clients-anchor">My 2 Cents<small>Build the world you believe in.</small></h2>
 
-        <p>Lorem ipsum Eu adipisicing magna cillum proident qui aliqua elit sit occaecat amet sunt sit ullamco enim aliquip incididunt eu quis Excepteur in qui cupidatat non cupidatat qui ad ea officia deserunt sunt anim do in consectetur et anim do aliqua occaecat adipisicing mollit elit ut quis irure consequat dolore eiusmod amet dolore incididunt Duis non ullamco id dolore commodo officia anim minim velit...</p>
+        <p>Everyone has a moment in their life where they thought everything was going perfectly for them, until its not. I believe in the concept of fatalism; that every individual event has already been predetermined. We all have good times, bad times, and then times where we wish we could see the future, or travel back to the past so that we could change the present. But none of that is possible. All we can do is keep waking up everyday, realizing just how shallow our lives are, until one day, everything clicks. And to this day, I am still waiting for that moment.</p>
 
         <div id="carouselClients" class="carousel slide" data-ride="carousel">
         
@@ -692,7 +693,7 @@
 
         <span class="separator"></span>
 
-        <h2 id="contact-anchor">Send me a message!<br><small>Tell me what's up.</small></h2>
+        <h2 id="contact-anchor">Send me a message!<br><small>Tell me what's good.</small></h2>
 
 		<div class="info-contact row">
 
@@ -794,7 +795,7 @@
                         <div class="col-xs-12 col-sm-12 col-lg-12">
 						 	<input type="checkbox" id="ios" name="newsletter" value="Yes" checked>
 						 	<label for="ios" class="ios button"></label>
-							<label class="check-news">I want to receive your Weekly Newsletter.</label>
+							<label class="check-news">I want to make everyday, worth it.</label>
 						</div>
                     </div>
 
