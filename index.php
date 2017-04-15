@@ -148,9 +148,9 @@
 
 	    	<div class="img-info">
 
-	    		<h5>My Favorite Anime</h5>
+	    		<h5>Education</h5>
 
-	    		<h2>Your Lie in April</h2>
+	    		<h2>Wellesley High School</h2>
 
             	<p class="credit">
             		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">A-1 Pictures</a><br>
@@ -222,13 +222,13 @@
 
 	    	<div class="img-info">
 
-	    		<h5>Some details...</h5>
+	    		<h5>My Favorite Game</h5>
 
-	    		<h2>Life Beyond Earth</h2>
+	    		<h2>League of Legends</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Johnny Dopp Photography</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> U.S. state of Arizona 109°  03′ W to 114°  49′ W
+            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Riot Games</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Santa Clara, California 109°  03′ W to 114°  49′ W
        			</p>
 
             	<a href="#Map" class="action-btn before-click">See my Photo TOURS</a>
@@ -252,7 +252,7 @@
 
             	<p class="credit">
             		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">A-1 Pictures</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Russian Federation 55°45′6″N 37°37′4″E
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Osaka, Japan 55°45′6″N 37°37′4″E
        			</p>
 
             	<a data-dialog="somedialog_2" class="action-btn trigger before-click">More Details</a>
@@ -279,22 +279,24 @@
 
 								<div class="col-lg-6 col-sm-6 col-xs-12">
 
-									<h4>Panoramic Mountain</h4>
+									<h4>Your Lie in April</h4>
 
 									<p>Starting off the album is a picture of my favorite anime, Your Lie in April [Shigatsu wa Kimi no Uso]. The story revolves around a piano prodigy named Arima Kousei who's mother dies of an illness. He gradually loses the ability to hear the notes and ultimately stops playing altogether. That is, until he meets Miyazono Kaori, a violinist who changes his life.</p>
 
 								</div>
 
 								<div class="col-lg-5 col-lg-offset-1 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 details">
+                                    <h4>Honorable Mentions</h4>
+                                    
+                                        <br>
+                                    
+									<h3><i class="fa fa-star-half-o" aria-hidden="true"></i><a href="https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu"> Re:Zero -Starting Life in Another World-</a></h3>
 
-									<h5><i class="fa fa-camera" aria-hidden="true"></i> About</h5>
+									<p>Coming in at number 2 is Re:Zero.</p>
 
-									<p>Shot on August 20, 2016 by <a href="#" target="_blank">Johnny Dopp</a>, freelance photographer for 10 years. Awarded as best nature photographer in 2015. Lorem ipsum Nulla aliqua aute ut aliquip qui aliqua occaecat irure labore ullamco sed id anim Duis exercitation dolor enim eu anim.</p>
+									<h3><i class="fa fa-star-half-o" aria-hidden="true"></i><a href="https://myanimelist.net/anime/27989/Hibike_Euphonium"> Hibike Euphonium!</a></h3>
 
-									<h5><i class="fa fa-expand" aria-hidden="true"></i> Details</h5>
-
-									<p>3442 x 2592 pixels / 10.9 MB / Aspect Ratio: 1721:1296<br>
-										Lorem ipsum Dolor tempor enim dolor quis amet.</p>
+									<p>Nothing compares to an anime like Hibike Euphonium!. </p>
 								</div>
 							</div>
 						</div>
@@ -311,7 +313,7 @@
 
 	    	<div class="global-overlay"></div>
 
-	    	<a id="bgndVideo" class="player" data-property="{videoURL:'http://youtu.be/RdGVz104b3E',containment:'#section5',autoPlay:false, mute:false, startAt:0, stopAt:0, opacity:1}"></a>
+	    	<a id="bgndVideo" class="player" data-property="{videoURL:'http://youtu.be/sn1iA7qOpE0',containment:'#section5',autoPlay:false, mute:false, startAt:0, stopAt:0, opacity:1}"></a>
 
 	    	<div class="img-info">
 
@@ -320,8 +322,8 @@
 	    		<h2>Uncontrollably Fond</h2>
 
             	<p class="credit">
-            		<i class="fa fa-video-camera" aria-hidden="true"></i> Video by <a href="http://themehelite.com">tvN</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Most populous city of France, Paris
+            		<i class="fa fa-video-camera" aria-hidden="true"></i> Video by <a href="http://themehelite.com">KBS World TV</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Most populous city of South Korea, Seoul
        			</p>
 
             	<a class="action-btn before-click player-nav" id="play-ytb" onclick="$('#bgndVideo').playYTP()"><i class="fa fa-play" aria-hidden="true"></i></a>
@@ -332,7 +334,7 @@
 
             	<a class="action-btn before-click player-nav" onclick="$('#bgndVideo').YTPFullscreen()"><i class="fa fa-expand" aria-hidden="true"></i></a>
 
-            	<a href="http://youtu.be/RdGVz104b3E" target="_blank" class="action-btn before-click">Watch on YouTube</a>
+            	<a href="http://youtu.be/sn1iA7qOpE0" target="_blank" class="action-btn before-click">Watch on YouTube</a>
             </div>
 	    </div>
 
@@ -343,13 +345,13 @@
 
 	    	<div class="img-info">
 
-	    		<h5>Some details...</h5>
+	    		<h5>College</h5>
 
-	    		<h2>Numbers</h2>
+	    		<h2>Northeastern University</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Johnny Dopp Photography</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> German state of Bavaria 48°08′N 11°34′E
+            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Chris Luk</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Boston, Massachusetts 48°08′N 11°34′E
        			</p>
 
             	<a data-dialog="somedialog_3" class="action-btn trigger before-click">More Informations</a>
@@ -374,7 +376,7 @@
 
 								<div class="col-lg-6 col-sm-6 col-xs-12">
 
-									<h4>Panoramic Mountain</h4>
+									<h4>Northeastern University</h4>
 
 									<p>Lorem ipsum Enim pariatur exercitation anim velit ut aliquip do irure id culpa reprehenderit nisi eiusmod Excepteur incididunt dolore ad adipisicing consequat irure fugiat labore occaecat ad elit qui ullamco magna aute ea dolore ea laborum nisi laboris dolor pariatur incididunt velit pariatur quis aute minim dolor reprehenderit in pariatur amet sit et est aute sunt id consequat amet nostrud non exercitation laboris Excepteur ex anim sint adipisicing enim id anim dolore do sint.</p>
 
@@ -415,7 +417,7 @@
 
                 	<div class="text-gallery">
                 		
-	                		<h4>Photo 1</h4>
+	                		<h4>Trading Day</h4>
 	                	
                 	</div>
                 </div>
@@ -428,7 +430,7 @@
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
-                		<h4>Photo 2</h4>
+                		<h4>Rugburn OG</h4>
                 	</div>
                 </div>
 
@@ -440,7 +442,7 @@
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
-                		<h4>Photo 3</h4>
+                		<h4>Master Kush</h4>
                 	</div>
                 </div>
                 
@@ -452,7 +454,7 @@
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
-                		<h4>Photo 4</h4>
+                		<h4>Lemon OG</h4>
                 	</div>
                 </div>
             </div>
@@ -465,16 +467,16 @@
 
 	    	<div class="img-info">
 
-	    		<h5>Some details...</h5>
+	    		<h5>Work</h5>
 
-	    		<h2>Raiders of the Sun</h2>
+	    		<h2>Akamai Technologies</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Johnny Dopp Photography</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Western Empire, St. Peter's Horses
+            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Chris Luk</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Cambridge, Massachusetts
        			</p>
 
-            	<a data-dialog="somedialog_4" class="action-btn trigger before-click">More Informations</a>
+            	<a data-dialog="somedialog_4" class="action-btn trigger before-click">More Details</a>
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
@@ -496,7 +498,7 @@
 
 								<div class="col-lg-6 col-sm-6 col-xs-12">
 
-									<h4>Panoramic Mountain</h4>
+									<h4>Faster forward.</h4>
 
 									<p>Lorem ipsum Enim pariatur exercitation anim velit ut aliquip do irure id culpa reprehenderit nisi eiusmod Excepteur incididunt dolore ad adipisicing consequat irure fugiat labore occaecat ad elit qui ullamco magna aute ea dolore ea laborum nisi laboris dolor pariatur incididunt velit pariatur quis aute minim dolor reprehenderit in pariatur amet sit et est aute sunt id consequat amet nostrud non exercitation laboris Excepteur ex anim sint adipisicing enim id anim dolore do sint.</p>
 
