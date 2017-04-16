@@ -153,8 +153,8 @@
 	    		<h2>Wellesley High School</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">A-1 Pictures</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Japan 59°56′N 10°41′E
+            		<i class="fa fa-camera" aria-hidden="true"></i> Class of 2011<br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Wellesley, Massachusetts 59°56′N 10°41′E
        			</p>
 
             	<a data-dialog="somedialog_1" class="action-btn trigger before-click">More Detail</a>
@@ -181,18 +181,18 @@
 
 									<h4>Wellesley High School</h4>
 
-									<p>Starting off the album is a picture of my favorite anime, Your Lie in April [Shigatsu wa Kimi no Uso]. The story revolves around a piano prodigy named Arima Kousei who's mother dies of an illness. He gradually loses the ability to hear the notes and ultimately stops playing altogether. That is, until he meets Miyazono Kaori, a violinist who changes his life.</p>
+									<p>Description about high school.</p>
 								</div>
 
 								<div class="col-lg-5 col-lg-offset-1 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 details">
 
 									<h5><i class="fa fa-camera" aria-hidden="true"></i> About</h5>
 
-									<p>Shot on August 20, 2016 by <a href="#" target="_blank">Johnny Dopp</a>, freelance photographer for 10 years. Awarded as best nature photographer in 2015. Lorem ipsum Nulla aliqua aute ut aliquip qui aliqua occaecat irure labore ullamco sed id anim Duis exercitation dolor enim eu anim.</p>
+									<p>Shot on August 20, 2016 by Chris Luk. He's the man.</p>
 
 									<h5><i class="fa fa-expand" aria-hidden="true"></i> Details</h5>
 
-									<p>1920 x 1080 pixels / 10.9 MB / Aspect Ratio: 1721:1296<br>
+									<p>4256 x 2832 pixels / 1.07 MB / Aspect Ratio: 1920:1280<br>
 										Not Original Content</p>
 								</div>
 							</div>
