@@ -42,7 +42,7 @@
 		</li>
 
 		<li data-menuanchor="Shot2" class="main-nav">
-			<a href="#Shot2">2 <span>Game</span></a>
+			<a href="#Shot2">2 <span>Work</span></a>
 		</li>
 
 		<li data-menuanchor="Shot3" class="main-nav">
@@ -65,13 +65,13 @@
 			<a href="#Shot7">7 <span>Work</span></a>
 		</li>
 
-		<li data-menuanchor="Shot8" class="main-nav">
-			<a href="#Shot8">8 <span>Life</span></a>
-		</li>
-
 		<li data-menuanchor="Map" class="main-nav">
 			<a href="#Map"><i class="fa fa-globe"></i><span>Travel</span></a>
 		</li>
+
+		<!--<li data-menuanchor="Map" class="main-nav">
+			<a href="#Map"><i class="fa fa-globe"></i><span>Travel</span></a>
+		</li>-->
 
 		<li id="menu-link">
 		
@@ -222,21 +222,41 @@
 
 	    	<div class="img-info">
 
-	    		<h5>My Favorite Game</h5>
+	    		<h5>Work</h5>
 
-	    		<h2>League of Legends</h2>
+	    		<h2>Akamai Technologies</h2>
 
             	<p class="credit">
-            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Riot Games</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Santa Clara, California 109°  03′ W to 114°  49′ W
+            		<i class="fa fa-camera" aria-hidden="true"></i> Photo by <a href="http://themehelite.com">Akamai</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Cambridge, Massachusetts 109°  03′ W to 114°  49′ W
        			</p>
 
-            	<a href="#Map" class="action-btn before-click">See my Photo TOURS</a>
-
+            	<!--<a href="#Map" class="action-btn before-click">See my Photo TOURS</a>-->
+                <a data-dialog="somedialog_5" class="action-btn trigger before-click">More Informations</a>
+                        
             	<a class="action-btn before-click" id="carousel-1-left" href="#carousel-1" data-slide="prev"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
 
             	<a class="action-btn before-click" id="carousel-1-right" href="#carousel-1" data-slide="next"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
+            
+            <div id="somedialog_5" class="dialog">
+
+				<div class="dialog__overlay"></div>
+						
+				<div class="dialog__content">
+	
+					<div class="dialog-inner col-lg-6 col-sm-8 col-xs-12">
+								
+						<h4>Panoramic Mountain</h4>
+								
+						<p>Lorem ipsum Enim pariatur exercitation anim velit ut aliquip do irure id culpa reprehenderit nisi eiusmod Excepteur incididunt dolore ad adipisicing consequat irure fugiat labore occaecat ad elit qui ullamco magna aute ea dolore ea laborum nisi laboris dolor pariatur incididunt velit pariatur quis aute minim dolor reprehenderit in pariatur amet sit et est aute sunt id consequat amet nostrud non exercitation laboris Excepteur ex anim sint adipisicing enim id anim dolore do sint et veniam voluptate cupidatat aliqua nisi minim ex ut consequat velit Ut sint qui deserunt occaecat veniam enim reprehenderit laborum velit dolore ea est ullamco cupidatat do ut voluptate in nulla enim dolor adipisicing.</p>
+
+					</div>
+
+					<!-- CLOSING BUTTON -->
+					<button class="close-content" data-dialog-close><i class="icon ion-android-close"></i></button>
+				</div>	
+			</div>
 	    </div>
 
 	    <!-- SECTION 4 -->
@@ -411,26 +431,26 @@
             <div class="row" id="vertical-parent-gallery">
 
             	<div class="col-xs-12 col-sm-3 col-lg-3 vertical-gallery">
-                	<a href="img/vertical-gallery-1.jpg" class="swipebox" data-rel="gallery1" data-title="Le Louvre"></a>
+                	<a href="http://na.leagueoflegends.com"></a>
 
                 	<div class="vertical-photo"></div>
 
                 	<div class="text-gallery">
                 		
-	                		<h4>Trading Day</h4>
+	                		<h4>League of Legends</h4>
 	                	
                 	</div>
                 </div>
 
                 <div class="col-xs-12 col-sm-3 col-lg-3 vertical-gallery">
-                	<a href="img/vertical-gallery-2.jpg" class="swipebox" data-rel="gallery1" data-title="Deep forest">
+                	<a href="http://www.pokemon.com" class="swipebox" data-rel="gallery1" data-title="Deep forest">
                 			
 	                	</a>
 
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
-                		<h4>Rugburn OG</h4>
+                		<h4>Pokemon Sun and Moon</h4>
                 	</div>
                 </div>
 
@@ -442,7 +462,7 @@
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
-                		<h4>Master Kush</h4>
+                		<h4>Destiny</h4>
                 	</div>
                 </div>
                 
@@ -454,7 +474,7 @@
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
-                		<h4>Lemon OG</h4>
+                		<h4>ArcheAge</h4>
                 	</div>
                 </div>
             </div>
@@ -525,8 +545,8 @@
 			</div>
 	    </div>
 
-	    <!-- SECTION 9 -->
-		<div class="section horizontal-mod" id="section9">
+	    <!-- SECTION 8.5 -->
+		<!-- <div class="section horizontal-mod" id="section9">
 
 	    	<div class="global-overlay"></div>
 
@@ -545,10 +565,10 @@
 
             	<a class="action-btn before-click" href="https://link-to-your-picture.jpg" download="https://link-to-your-picture.jpg"><i class="fa fa-download" aria-hidden="true"></i></a>
 
-            	<!--<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>-->
+            	<a class="action-btn before-click"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
             </div>
 
-            <!-- INFORMATIONS POPUP -->
+             INFORMATIONS POPUP 
 			<div id="somedialog_5" class="dialog">
 
 				<div class="dialog__overlay"></div>
@@ -563,22 +583,22 @@
 
 					</div>
 
-					<!-- CLOSING BUTTON -->
+					 CLOSING BUTTON 
 					<button class="close-content" data-dialog-close><i class="icon ion-android-close"></i></button>
 				</div>	
 			</div>
-	    </div>
+	    </div>-->
 
 	    <!-- SECTION 10 -->
 		<div class="section horizontal-mod" id="section10">
 
 	    	<div class="img-info">
 
-	    		<h5>See you on the</h5>
+	    		<h5>All the Places</h5>
 
-	    		<h2>PHOTO TOURS</h2>
+	    		<h2>I've Traveled To</h2>
 
-            	<p class="credit">Johnny leads photo tours to select worldwide locations.<br>For information, prices, and availability, please use the contact form.</p>
+            	<p class="credit">I want to expand my global experience.<br>Please contact me if you have any questions.</p>
 
             	<a class="action-btn before-click open-info" data-target="contact-anchor">Contact me</a>
             </div>
