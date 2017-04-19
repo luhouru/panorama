@@ -443,9 +443,7 @@
                 </div>
 
                 <div class="col-xs-12 col-sm-3 col-lg-3 vertical-gallery">
-                	<a href="http://www.pokemon.com" class="swipebox" data-rel="gallery1" data-title="Deep forest">
-                			
-	                	</a>
+                	<a href="http://www.pokemon.com"></a>
 
 	                	<div class="vertical-photo"></div>
 
@@ -455,26 +453,22 @@
                 </div>
 
                 <div class="col-xs-12 col-sm-3 col-lg-3 vertical-gallery">
-                	<a href="img/vertical-gallery-3.jpg" class="swipebox" data-rel="gallery1" data-title="Crazy view">
-                			
-	                	</a>
-
-	                	<div class="vertical-photo"></div>
-
-	                	<div class="text-gallery">
-                		<h4>Destiny</h4>
-                	</div>
-                </div>
-                
-                <div class="col-xs-12 col-sm-3 col-lg-3 vertical-gallery">
-                	<a href="img/vertical-gallery-4.jpg" class="swipebox" data-rel="gallery1" data-title="Giant city">
-                			
-	                	</a>
+                	<a href="https://www.archeagegame.com/en/play-now/"></a>
 
 	                	<div class="vertical-photo"></div>
 
 	                	<div class="text-gallery">
                 		<h4>ArcheAge</h4>
+                	</div>
+                </div>
+                
+                <div class="col-xs-12 col-sm-3 col-lg-3 vertical-gallery">
+                	<a href="http://oldschool.runescape.com/"></a>
+
+	                	<div class="vertical-photo"></div>
+
+	                	<div class="text-gallery">
+                		<h4>OS RuneScape</h4>
                 	</div>
                 </div>
             </div>
