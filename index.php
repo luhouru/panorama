@@ -2,7 +2,7 @@
 <html lang="en-us" class="no-js">
 	<head>
 		<meta charset="utf-8">
-        <title>Chris Luk - Personal Website</title>
+        <title>LUHO &copy;</title>
         <meta name="description" content="personal website">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Luho">
@@ -38,31 +38,31 @@
 		</li>
 
 		<li data-menuanchor="Shot1" class="main-nav">
-			<a href="#Shot1">1 <span>High School</span></a>
+			<a href="#Shot1">1 <span>HIGH SCHOOL</span></a>
 		</li>
 
 		<li data-menuanchor="Shot2" class="main-nav">
-			<a href="#Shot2">2 <span>Work</span></a>
+			<a href="#Shot2">2 <span>UNIVERSITY</span></a>
 		</li>
 
 		<li data-menuanchor="Shot3" class="main-nav">
-			<a href="#Shot3">3 <span>Anime</span></a>
+			<a href="#Shot3">3 <span>JAILBREAK</span></a>
 		</li>
 
 		<li data-menuanchor="Movie" class="main-nav">
-			<a href="#Movie"><i class="fa fa-video-camera"></i><span>Drama</span></a>
+			<a href="#Movie"><i class="fa fa-video-camera"></i><span>KPOP</span></a>
 		</li>
 
 		<li data-menuanchor="Shot5" class="main-nav">
-			<a href="#Shot5">5 <span>University</span></a>
+			<a href="#Shot5">5 <span>ANIME</span></a>
 		</li>
 
 		<li data-menuanchor="Shot6" class="main-nav">
-			<a href="#Shot6">6 <span>420</span></a>
+			<a href="#Shot6">6 <span>CRYPTO</span></a>
 		</li>
 
 		<li data-menuanchor="Shot7" class="main-nav">
-			<a href="#Shot7">7 <span>Work</span></a>
+			<a href="#Shot7">7 <span>WORK</span></a>
 		</li>
 
 		<li data-menuanchor="Map" class="main-nav">
@@ -131,9 +131,9 @@
 
 	    	<div class="intro">
 
-	    		<h1>Chris Luk.</h1>
+	    		<h1>LUHO.</h1>
 
-	    		<p class="subtitle">Platform Operations Engineer</p>
+	    		<p class="subtitle">Chris Luk</p>
 
 	    		<a class="color-btn" href="#Shot1">환영합니다</a>
 
@@ -301,7 +301,7 @@
 
 									<h4>Your Lie in April</h4>
 
-									<p>Starting off the album is a picture of my favorite anime, Your Lie in April [Shigatsu wa Kimi no Uso]. The story revolves around a piano prodigy named Arima Kousei who's mother dies of an illness. He gradually loses the ability to hear the notes and ultimately stops playing altogether. That is, until he meets Miyazono Kaori, a violinist who changes his life.</p>
+									<p></p>
 
 								</div>
 
@@ -333,17 +333,17 @@
 
 	    	<div class="global-overlay"></div>
 
-	    	<a id="bgndVideo" class="player" data-property="{videoURL:'http://youtu.be/sn1iA7qOpE0',containment:'#section5',autoPlay:false, mute:false, startAt:0, stopAt:0, opacity:1}"></a>
+	    	<a id="bgndVideo" class="player" data-property="{videoURL:'http://youtu.be/i0p1bmr0EmE',containment:'#section5',autoPlay:false, mute:false, startAt:0, stopAt:0, opacity:1}"></a>
 
 	    	<div class="img-info">
 
-	    		<h5>My Favorite Drama</h5>
+	    		<h5>TWICE</h5>
 
-	    		<h2>Uncontrollably Fond</h2>
+	    		<h2>What is Love? M/V</h2>
 
             	<p class="credit">
-            		<i class="fa fa-video-camera" aria-hidden="true"></i> Video by <a href="http://themehelite.com">KBS World TV</a><br>
-       				<i class="fa fa-location-arrow" aria-hidden="true"></i> Most populous city of South Korea, Seoul
+            		<i class="fa fa-video-camera" aria-hidden="true"></i> Video by <a href="https://www.jype.com/">JYP Entertainment</a><br>
+       				<i class="fa fa-location-arrow" aria-hidden="true"></i> South Korea, Seoul
        			</p>
 
             	<a class="action-btn before-click player-nav" id="play-ytb" onclick="$('#bgndVideo').playYTP()"><i class="fa fa-play" aria-hidden="true"></i></a>
@@ -354,7 +354,7 @@
 
             	<a class="action-btn before-click player-nav" onclick="$('#bgndVideo').YTPFullscreen()"><i class="fa fa-expand" aria-hidden="true"></i></a>
 
-            	<a href="http://youtu.be/sn1iA7qOpE0" target="_blank" class="action-btn before-click">Watch on YouTube</a>
+            	<a href="http://youtu.be/i0p1bmr0EmE" target="_blank" class="action-btn before-click">Watch on YouTube</a>
             </div>
 	    </div>
 
