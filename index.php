@@ -66,7 +66,7 @@
 		</li>
 
 		<li data-menuanchor="Map" class="main-nav">
-			<a href="#Map"><i class="fa fa-globe"></i><span>Travel</span></a>
+			<a href="#Map"><i class="fa fa-globe"></i><span>MAP</span></a>
 		</li>
 
 		<!--<li data-menuanchor="Map" class="main-nav">
